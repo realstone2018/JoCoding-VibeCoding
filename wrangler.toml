@@ -1,2 +1,2 @@
-[pages_build_output_dir]
-path = "dist"
+name = "jocoding-vibecoding"
+pages_build_output_dir = "dist"
